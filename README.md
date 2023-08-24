@@ -28,7 +28,7 @@ You can contact me via email at pongsakon.kaew@gmail.com or follow me on:
 
 - [LinkedIn]
 - [Twitter]
-- [Medium]
+- [Medium](https://medium.com/@pongsakon-kaew)
 
 ## 🌱 I’m currently learning ...
 
