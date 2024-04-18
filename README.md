@@ -1,6 +1,6 @@
 # Hi, I'm Pongsaky 👋
 
-I'm a software engineer from Bangkok, Thailand. I have a bachelor's degree in computer science from Chulalongkorn University and I'm currently working as a full-stack developer at ABC Inc.
+I'm a software engineer from Bangkok, Thailand. I have a bachelor's degree in computer science from Chulalongkorn University.
 
 ## 🚀 Skills and Technologies
 
